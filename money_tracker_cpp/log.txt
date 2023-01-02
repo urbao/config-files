@@ -1,0 +1,64 @@
+      Date     Type  Amount  Detail                                            Edit Time
+=======================================================================================================                               
+2020/08/31    income   3000  Tutor fee                                         Mon Apr 04 20:27:12 2022
+2020/08/31   expense   1365  Swiss Army Knife                                  Mon Apr 04 20:28:13 2022
+2020/09/04    income   2900  Tutor fee of 9/4                                  Mon Apr 04 20:29:58 2022
+2020/09/04   expense    500  Tasty for sister's birthday                       Mon Apr 04 20:30:46 2022
+2020/09/11    income   3000  Tutor fee from 9/11, 9/18 & 9/27                  Mon Apr 04 20:32:36 2022
+2020/10/13   expense     40  Almond tofu shaved ice                            Mon Apr 04 20:36:17 2022
+2020/10/01   expense    400  High school classmates B.B.Q                      Mon Apr 04 20:37:29 2022
+2020/10/11    income   2000  Tutor fee of 10/4 & 10/11                         Mon Apr 04 20:39:02 2022
+2020/10/12   expense    500  Buy 2 NCKU T-shirts                               Mon Apr 04 20:39:53 2022
+2020/10/17    income   3000  Tutor fee of 10/6, 10/7 & 10/17                   Mon Apr 04 20:40:36 2022
+2020/10/24    income   2000  Grandpa's $1000 & Tutor fee of 10/24              Mon Apr 04 20:41:42 2022
+2020/12/12    income   3000  Tutor fee for 2 weeks & Grandpa's $1000           Tue Apr 05 06:43:28 2022
+2020/12/04   expense    300  Sister's first marathon                           Tue Apr 05 06:45:26 2022
+2021/01/10    income   2000  Tutor fee of 12/20 & 1/10                         Tue Apr 05 06:47:41 2022
+2021/01/31    income   4000  Grandpa's 2000 & Tutor fee of 2 weeks             Tue Apr 05 06:49:27 2022
+2021/02/03   expense    216  Hot pot with high school classmates               Tue Apr 05 06:48:23 2022
+2021/02/27    income   3000  Tutor fee of 3 weeks                              Tue Apr 05 06:50:55 2022
+2021/05/01    income   6000  Tutor fee from 3/6 to 5/1                         Tue Apr 05 07:01:49 2022
+2021/03/12   expense    300  Diabolo for P.E. class                            Tue Apr 05 07:02:54 2022
+2021/04/10   expense   2000  Personal computer repaired(Windows10)             Tue Apr 05 07:04:17 2022
+2021/08/01    income   6000  Tutor fee from 5/15 to 8/1                        Tue Apr 05 07:11:23 2022
+2021/05/20   expense   1000  Haircut tools                                     Tue Apr 05 07:13:22 2022
+2021/06/15    income   8500  Scholarship                                       Tue Apr 05 07:15:42 2022
+2021/09/19    income   6000  Tutor fee from 8/14 to 9/19                       Tue Apr 05 07:19:27 2022
+2021/09/15   expense    327  Pizza                                             Tue Apr 05 07:20:07 2022
+2021/10/15   expense   5000  Samsung tab s6-lite                               Tue Apr 05 07:21:49 2022
+2021/12/19    income   8000  Tutor fee from 10/3 to 12/19                      Tue Apr 05 07:22:34 2022
+2021/12/31    income   3000  Tutor fee of Dec.                                 Tue Apr 05 07:31:42 2022
+2022/02/09   expense    110  Dinner with Lee(high school classmate)            Tue Apr 05 07:33:00 2022
+2022/01/31    income   3000  Tutor fee of Jan.                                 Tue Apr 05 07:34:05 2022
+2022/02/18   expense    140  Electrical machinery textbook                     Tue Apr 05 07:35:01 2022
+2022/02/28    income   1000  Tutor fee of Feb.                                 Tue Apr 05 07:35:39 2022
+2022/04/03    income   1000  Grandpa's $1000                                   Tue Apr 05 07:36:36 2022
+2022/04/10    income   3000  Tutor fee of Mar.                                 Sun Apr 10 11:15:18 2022
+2022/05/08    income   2000  Tutor fee of Apr.                                 Sun May 08 13:47:39 2022
+2022/05/14   expense    225  Fried chicken for Mother's day                    Sat May 14 22:02:11 2022
+2022/06/04   expense    120  Buying panna cotta ingredient                     Sat Jun 04 17:46:29 2022
+2022/06/05    income   6000  Tutor fee of May                                  Sun Jun 05 13:24:10 2022
+2022/06/14    income   8000  Sophomore first semester scholarship              Tue Jun 14 17:03:44 2022
+2022/06/17   expense    120  Buy panna cotta ingredient                        Fri Jun 17 22:20:53 2022
+2022/06/18   expense    105  Buying a Boonie hat                               Sat Jun 18 20:46:42 2022
+2022/07/05    income   7000  Tutor fee of June                                 Tue Jul 05 17:06:08 2022
+2022/07/27   expense    100  Eat Luwei with Pan                                Wed Jul 27 22:51:08 2022
+2022/07/28   expense     88  Eat McDonald's with high school classmates        Thu Jul 28 16:44:18 2022
+2022/08/07   expense    100  Ingrediants of braised pork                       Sun Aug 07 09:12:21 2022
+2022/08/07   expense     88  Eat Dain-Dain with high school classmates         Sun Aug 07 21:43:40 2022
+2022/08/07   expense     55  Buy salty crispy chicken for mom                  Sun Aug 07 21:44:00 2022
+2022/08/14    income   7000  Tutor fee of July                                 Sun Aug 14 13:12:09 2022
+2022/08/18   expense     70  Lunch at Yule Street                              Thu Aug 18 17:54:37 2022
+2022/08/19   expense     90  Lunch at Yule Street                              Fri Aug 19 18:37:01 2022
+2022/09/10   expense    250  Samsung tablet case                               Sun Sep 11 15:40:05 2022
+2022/09/10   expense     25  Buying bird's feed                                Sun Sep 11 15:41:26 2022
+2022/09/10   expense    550  High school classmates B.B.Q                      Sun Sep 11 15:44:13 2022
+2022/09/10   expense     40  Fireworks at Moon Festival                        Sun Sep 11 15:47:37 2022
+2022/09/11    income   4000  Tutor fee of Aug.                                 Sun Sep 11 15:48:32 2022
+2022/09/15   expense     90  Dinner with college classmates                    Thu Sep 15 20:13:33 2022
+2022/09/19   expense    100  Lunch with college classate                       Tue Sep 20 07:50:42 2022
+2022/10/02    income   3000  Tutor fee of Sep.                                 Sun Oct  2 13:23:54 2022
+2022/11/10    income   5000  Tutor fee of Oct.                                 Thu Nov 10 20:11:00 2022
+2022/12/09   expense    310  Hot pot for Mom's birthday                        Sat Dec 10 00:00:39 2022
+2022/12/12    income   6500  Scholarship                                       Thu Dec 15 20:16:06 2022
+2022/12/22   expense    227  Dinner with college mates                         Thu Dec 22 19:51:02 2022

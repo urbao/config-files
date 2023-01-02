@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=money_tracker
+Comment=start money tracker
+Exec="/home/eason/Desktop/money tracker/run.sh"
+Icon=/home/eason/Desktop/money tracker/wallet.png
+Terminal=true
+Type=Application

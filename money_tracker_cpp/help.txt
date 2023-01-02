@@ -1,0 +1,7 @@
+help             -- show all available functions
+show             -- show log.txt data 
+find `data'      -- find given data line
+append           -- append data to log.txt
+total            -- calculate total income/expense
+clear            -- clear the screen
+exit             -- exit the program
