@@ -11,7 +11,7 @@ My personal self-practice project Collection<br/><br/>
 
 ## Features
 
-- each folder contains another project
+- each folder contains another subproject
 - self-practice purpose
 - some projects are developed for Windows, while others are for Linux
 
