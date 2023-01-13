@@ -6,14 +6,14 @@ My personal self-practice project Collection<br/><br/>
 
 
 
-![Logo](https://cdn-icons-png.flaticon.com/256/1006/1006363.png)
+![Logo](https://cdn-icons-png.flaticon.com/128/1006/1006363.png)
 
 
 ## Features
 
 - each folder contains another subproject
 - self-practice purpose
-- some projects are developed for Windows, while others are for Linux
+- all projects are built in Ubuntu 22.04 LTS
 
 
 ## 🚀 About Me
