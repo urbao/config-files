@@ -51,7 +51,26 @@ return packer.startup(function(use)
   -- statusline
   use("nvim-lualine/lualine.nvim")
 
+  -- auto-completion
+  use("hrsh7th/nvim-cmp")
+  use("hrsh7th/cmp-path")
+  use("hrsh7th/cmp-buffer")
 
+  -- snippets
+  use("L3MON4D3/LuaSnip")
+  use("saadparwaiz1/cmp_luasnip")
+  use("rafamadriz/friendly-snippets")
+
+  -- managing & installing lsp servers, linters & formatters
+  use("williamboman/mason.nvim") -- in charge of managing lsp servers, linters & formatters
+  use("williamboman/mason-lspconfig.nvim") -- bridges gap b/w mason & lspconfig
+
+  -- configuring lsp servers
+  use("neovim/nvim-lspconfig") -- easily configure language servers
+  use("hrsh7th/cmp-nvim-lsp") -- for autocompletion
+  use({ "glepnir/lspsaga.nvim", branch = "main" }) -- enhanced lsp uis
+  use("jose-elias-alvarez/typescript.nvim") -- additional functionality for typescript server (e.g. rename file & update imports)
+  use("onsails/lspkind.nvim") -- vs-code like icons for autocompletion
 
   -- treesitter configuration
   use({
