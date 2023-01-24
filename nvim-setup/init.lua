@@ -10,3 +10,6 @@ require("eason.plugins.gitsigns")
 require("eason.plugins.lspconfig")
 require("eason.plugins.completion")
 require("eason.plugins.telescope")
+
+vim.api.nvim_set_hl(0, "Cursor", {fg='grey7', bg='MediumSpringGreen'})
+vim.opt.guicursor = 'a:block-Cursor,a:blinkon100'
