@@ -1,6 +1,6 @@
 require("mason").setup()
 require("mason-lspconfig").setup({
-    ensure_installed = { "arduino_language_server", "sumneko_lua", "bashls", "clangd", "pyright" },
+    ensure_installed = { "arduino_language_server", "sumneko_lua", "clangd", "pyright" },
 })
 
 -- enable keybinds only for when lsp server available
@@ -31,6 +31,3 @@ require("lspconfig").pyright.setup {
     on_attach = on_attach
 }
 
-require("lspconfig").bashls.setup {
-    on_attach = on_attach
-}

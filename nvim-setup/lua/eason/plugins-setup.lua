@@ -39,9 +39,6 @@ return packer.startup(function(use)
 
   use("szw/vim-maximizer") -- maximizes and restores current window
 
-  -- commenting with gc
-  use("numToStr/Comment.nvim")
-
   -- file explorer
   use("nvim-tree/nvim-tree.lua")
 
