@@ -48,6 +48,10 @@ return packer.startup(function(use)
   -- statusline
   use("nvim-lualine/lualine.nvim")
 
+  -- telescope
+  use({ "nvim-telescope/telescope-fzf-native.nvim", run = "make" })
+  use({ "nvim-telescope/telescope.nvim", branch = "0.1.x" })
+
   -- auto-completion
   use("hrsh7th/nvim-cmp")
   use("hrsh7th/cmp-path")
