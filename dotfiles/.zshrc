@@ -108,6 +108,7 @@ fi
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 # ----------- Alias list -------------- #
+unalias -m '*' # disable all 
 alias vim='nvim'
 alias ls='exa'
 alias ll='exa --long --all'
