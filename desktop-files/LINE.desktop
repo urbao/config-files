@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=LINE
+Exec=/opt/microsoft/msedge/microsoft-edge --profile-directory=Default --app-id=pbpoojghcbigbheeamegjbdailkaeglf --app-url=chrome-extension://ophjlpahpchlmihnnnihgmmeilfjmjjc/index.html
+Icon=msedge-pbpoojghcbigbheeamegjbdailkaeglf-Default
+StartupWMClass=crx__pbpoojghcbigbheeamegjbdailkaeglf
