@@ -16,5 +16,5 @@ vim.api.nvim_set_hl(0, "Cursor_Insert", {fg='Grey7', bg='MediumSpringGreen' }) -
 vim.api.nvim_set_hl(0, "Cursor_Normal", {fg='Grey7', bg='SteelBlue1'}) -- normal mode color
 vim.api.nvim_set_hl(0, "Cursor_Visual", {fg='Grey7', bg='MediumOrchid'}) -- visual mode color
 vim.api.nvim_set_hl(0, "Cursor_Command", {fg='Grey7', bg='Tan'}) -- command mode color
-vim.opt.guicursor = 'n:block-Cursor_Normal,c-ci-cr:block-Cursor_Command,i-sm-o:block-Cursor_Insert,v-ve-r:block-Cursor_Visual,a:blinkon100'
+vim.opt.guicursor = 'n:block-Cursor_Normal,c-ci-cr:block-Cursor_Command,i-sm-o:ver40-Cursor_Insert,v-ve-r:block-Cursor_Visual,a:blinkon100'
 
