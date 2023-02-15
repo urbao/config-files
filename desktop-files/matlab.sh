@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /usr/local/MATLAB/MATLAB_Code
+cd ~/Documents/MATLAB/
 TMPDIR=~/.cache/matlab-tmp matlab -desktop -softwareopengl
