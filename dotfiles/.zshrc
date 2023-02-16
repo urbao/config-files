@@ -122,6 +122,7 @@ alias ...=../..
 alias ....=../../..
 alias icrt='mpv https://www.icrt.com.tw/icrt_channel.php'
 alias clear='clear && echo -en "\e[3J"'
+alias grep='grep --color=always'
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
