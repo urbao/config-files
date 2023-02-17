@@ -18,3 +18,6 @@ vim.api.nvim_set_hl(0, "Cursor_Visual", {fg='Grey7', bg='MediumOrchid'}) -- visu
 vim.api.nvim_set_hl(0, "Cursor_Command", {fg='Grey7', bg='Tan'}) -- command mode color
 vim.opt.guicursor = 'n:block-Cursor_Normal,c-ci-cr:block-Cursor_Command,i-sm-o:ver40-Cursor_Insert,v-ve-r:block-Cursor_Visual,a:blinkon100'
 
+-- make background transparent
+vim.api.nvim_command(":hi Normal guibg=NONE")
+
