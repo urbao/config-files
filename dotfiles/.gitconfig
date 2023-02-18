@@ -16,10 +16,11 @@
 [alias]
 	st = status
 	cm = commit
-    lg = log --graph --pretty=format:'%C(auto)%h %d%C(magenta)[%cr]%Creset %s %C(red)(%an)' --date=human
+    	lg = log --graph --pretty=format:'%C(auto)%h %d%C(magenta)[%cr]%Creset %s %C(red)(%an)' --date=human
 	rb = rebase
 	ss = stash
 	co = checkout
 	br = branch
+	ps = push
 [color]
 	ui = true
