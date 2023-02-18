@@ -1,0 +1,25 @@
+[user]
+	email = E24094198@gs.ncku.edu.tw
+	name = urbao
+[init]
+	defaultBranch = master
+[pull]
+	rebase = true
+[rebase]
+	autoStash = true
+[log]
+	date = default
+[status]
+	short = true
+[core]
+	editor = nvim
+[alias]
+	st = status
+	cm = commit
+    lg = log --graph --pretty=format:'%C(auto)%h %d%C(magenta)[%cr]%Creset %s %C(red)(%an)' --date=human
+	rb = rebase
+	ss = stash
+	co = checkout
+	br = branch
+[color]
+	ui = true
