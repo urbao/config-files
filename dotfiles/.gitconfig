@@ -16,6 +16,7 @@
 [alias]
 	st = status
 	cm = commit
+	pl = pull
     	lg = log --graph --pretty=format:'%C(auto)%h %d%C(magenta)[%cr]%Creset %s %C(red)(%an)' --date=human
 	rb = rebase
 	ss = stash
