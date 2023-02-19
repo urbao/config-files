@@ -1,9 +1,1 @@
-# My personal self-practice project Collection<br/><br/>
-
-
-
-
-
-
-
-
+# My personal configuration files collection<br/>
