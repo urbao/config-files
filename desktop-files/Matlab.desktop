@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Matlab R2022a
+Comment=start Matlab
+Exec="/usr/local/MATLAB/R2022a/./matlab.sh"
+Icon=/usr/local/MATLAB/R2022a/bin/glnxa64/cef_resources/matlab_icon.png
+Terminal=true
+Type=Application
