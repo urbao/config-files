@@ -1,5 +1,0 @@
-			Good	Warning	   Dangerous
-Z1(R:Ohm)	 10		 	5			5
-Z2(L:mH)	0.5			5			5
-Z3(R:Ohm) 	100		   50		   10
-Z4(C:nF)	  1 		1 			1
