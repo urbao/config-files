@@ -1,4 +1,4 @@
-vim.g.mapleader = "/"
+vim.g.mapleader = " "
 
 local keymap = vim.keymap
 
@@ -12,7 +12,7 @@ keymap.set("n", "<leader>to", ":tabnew<CR>") --open new tab
 keymap.set("n", "<leader>tx", ":tabclose<CR>") -- close current tab
 keymap.set("n", "<leader>tn", ":tabn<CR>") -- goto next tab
 keymap.set("n", "<leader>tp", ":tabp<CR>") -- goto prev tab
---
+
 --plugin keymap
 keymap.set("n", "<leader>sm", ":MaximizerToggle<CR>") -- allow split window maximize & restore to original
 
