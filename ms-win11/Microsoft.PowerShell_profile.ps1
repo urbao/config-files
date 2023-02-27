@@ -42,3 +42,15 @@ function rmrf {
     )
     Remove-Item -Recurse -Force $Target
 }
+
+<# function that suppports jump back prev directory like zsh#>
+function ..{cd ..}
+function ...{
+    cd ..
+    cd ..
+}
+function ....{
+    cd ..
+    cd ..
+    cd ..
+}
