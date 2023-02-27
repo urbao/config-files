@@ -1,0 +1,23 @@
+<Configuration ID="a386ea37-0b59-41fa-bc3d-fe87758c3c57">
+  <Add OfficeClientEdition="64" Channel="Current">
+    <Product ID="O365ProPlusRetail">
+      <Language ID="en-us" />
+      <ExcludeApp ID="Access" />
+      <ExcludeApp ID="Groove" />
+      <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="OneDrive" />
+      <ExcludeApp ID="OneNote" />
+      <ExcludeApp ID="Outlook" />
+      <ExcludeApp ID="Publisher" />
+      <ExcludeApp ID="Teams" />
+      <ExcludeApp ID="Bing" />
+    </Product>
+  </Add>
+  <Updates Enabled="TRUE" />
+  <RemoveMSI />
+  <Display Level="Full" AcceptEULA="TRUE" />
+</Configuration>
+
+<!-- Run the following commands to install only Word, Powerpoint, and Excel apps -->
+<!-- Caution: this file and setup.exe need to be under same directory -->
+<!-- .\setup.exe /configure "office365-configuration.xml" -->
