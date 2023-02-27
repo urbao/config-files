@@ -14,6 +14,9 @@ Set-Alias ll ls
 Set-Alias grep findstr
 Set-Alias -Name top -Value btop
 Set-Alias -Name his -Value history
+Set-Alias -Name psd -Value pushd
+Set-Alias -Name ppd -Value popd
+
 
 # Utilities
 function which($command){
