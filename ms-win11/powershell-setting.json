@@ -28,16 +28,7 @@
             "keys": "y"
         },
         {
-            "command": 
-            {
-                "action": "copy",
-                "singleLine": false
-            },
-            "keys": "p"
-        },
-        {
-            "command": "paste",
-            "keys": "ctrl+v"
+            "command": "paste"
         },
         {
             "command": "find",
@@ -103,6 +94,14 @@
         {
             "command": "unbound",
             "keys": "shift+\\"
+        },
+        {
+            "command": "unbound",
+            "keys": "p"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+v"
         },
         {
             "command": 
@@ -205,7 +204,7 @@
                 "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
                 "hidden": false,
                 "name": "PowerShell",
-                "opacity": 91,
+                "opacity": 81,
                 "source": "Windows.Terminal.PowershellCore",
                 "tabTitle": "PowerShell",
                 "useAcrylic": true
