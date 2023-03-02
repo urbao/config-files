@@ -1,3 +1,4 @@
+
 {
     "$help": "https://aka.ms/terminal-documentation",
     "$schema": "https://aka.ms/terminal-profiles-schema",
@@ -117,6 +118,10 @@
                 "direction": "right"
             },
             "keys": "ctrl+l"
+        },
+        {
+            "command": "togglePaneZoom",
+            "keys": "ctrl+shift+z"
         },
         {
             "command": 
@@ -449,3 +454,4 @@
     "themes": [],
     "useAcrylicInTabRow": true
 }
+
