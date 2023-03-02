@@ -10,8 +10,7 @@ Set-PSReadlineKeyHandler -Key Tab -Function MenuComplete
 
 # Alias Part
 Set-Alias -Name vim -Value nvim
-Set-Alias ll ls
-Set-Alias grep findstr
+Set-Alias -Name grep -Value findstr
 Set-Alias -Name g -Value git
 Set-Alias -Name top -Value btop
 Set-Alias -Name his -Value history
@@ -19,6 +18,9 @@ Set-Alias -Name psd -Value pushd
 Set-Alias -Name ppd -Value popd
 Set-Alias -Name touch -Value New-Item
 Set-Alias -Name tr -Value recycle-bin
+Set-Alias -Name less -Value 'C:\Users\User\scoop\apps\git\current\usr\bin\less.exe'
+Set-Alias -Name ll -Value list_all
+Set-Alias -Name lt -Value list_tree
 
 # Utilities
 function which($command){
@@ -54,4 +56,12 @@ function ....{
     cd ..
     cd ..
     cd ..
+}
+
+function list_all{
+    Get-ChildItem -Force
+}
+
+function list_tree{
+    tree /F
 }
