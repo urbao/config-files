@@ -1,5 +1,5 @@
 # oh-my-posh
-oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\powerlevel10k_rainbow.omp.json" | Invoke-Expression
+oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\multiverse-neon.omp.json" | Invoke-Expression
 
 # Terminal-Icons conifgure
 Import-Module Terminal-Icons
@@ -12,12 +12,13 @@ Set-PSReadlineKeyHandler -Key Tab -Function MenuComplete
 Set-Alias -Name vim -Value nvim
 Set-Alias ll ls
 Set-Alias grep findstr
+Set-Alias -Name g -Value git
 Set-Alias -Name top -Value btop
 Set-Alias -Name his -Value history
 Set-Alias -Name psd -Value pushd
 Set-Alias -Name ppd -Value popd
 Set-Alias -Name touch -Value New-Item
-
+Set-Alias -Name tr -Value recycle-bin
 
 # Utilities
 function which($command){
