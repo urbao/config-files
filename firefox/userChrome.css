@@ -364,9 +364,9 @@
   > .browserStack
   > browser {
   border-radius: 16px !important;
-  margin: 14px !important;
+  margin: 4px !important;
 }
-
+/*
 .browserContainer {
   background-color: var(
     --lwt-accent-color-inactive,
@@ -417,3 +417,4 @@
 toolbarbutton[open="true"] {
   --is-bar-visible: visible !important;
 }
+*/
