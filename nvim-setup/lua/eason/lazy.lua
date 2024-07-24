@@ -11,12 +11,12 @@ if not vim.loop.fs_stat(lazypath) then
 end
 vim.opt.rtp:prepend(lazypath)
 
-require("lazy").setup({ 
-    { import = "eason.plugins" }, 
-    { import = "eason.plugins.lsp" } 
+require("lazy").setup({
+    { import = "eason.plugins" },
+    { import = "eason.plugins.lsp" }
 }, {
     install = {
-        colorscheme = { "nightfly" },
+        colorscheme = { "solarized-osaka" },
   },
   checker = {
     enabled = true,

@@ -37,6 +37,8 @@ return {
         "php",
         "python",
         "verilog",
+        "vimdoc",
+        "luadoc",
       },
       incremental_selection = {
         enable = true,
